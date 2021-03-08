@@ -1,0 +1,1 @@
+Parce que si on ne commit pas, la modification n'est pas enreigesté.
